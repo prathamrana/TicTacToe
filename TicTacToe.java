@@ -1,5 +1,5 @@
 //TicTacToe
-//Preetham Anumapuram & Pratham Rana
+//Pratham Rana
 
 import java.util.Scanner;
 public class TicTacToe
